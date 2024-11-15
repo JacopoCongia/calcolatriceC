@@ -1,0 +1,3 @@
+// Prototipi
+
+int stampaMenu();
